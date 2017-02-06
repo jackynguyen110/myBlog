@@ -26,3 +26,4 @@ The following **optional** features are implemented:
 * [ ] User can see how many views a post has. 
 * [ ] User can leave a comment on a post.
 * [ ] User can add "tags" to a post, and filter posts by tag. 
+<img src="https://github.com/jackynguyen110/myBlog/blob/master/blog.gif" />
