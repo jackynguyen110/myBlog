@@ -6,7 +6,7 @@ Submitted by: **JackyNguyen**
 
 Time spent: **12** hours spent in total
 
-URL: **Insert your Heroku URL here**
+URL: **https://lit-ocean-28340.herokuapp.com/articles**
 
 ## User Stories
 
