@@ -1,29 +1,24 @@
-# Pre-work - *myBlog*
+# README
 
-**myBlog** is a Ruby on Rails blog application.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-Submitted by: **JackyNguyen**
+Things you may want to cover:
 
-Time spent: **12** hours spent in total
+* Ruby version
 
-URL: **https://lit-ocean-28340.herokuapp.com/articles**
+* System dependencies
 
-## User Stories
+* Configuration
 
-The following **required** functionality is complete:
+* Database creation
 
-> HINT: mark the items you completed with [x]
+* Database initialization
 
-* [x] User can create a new post, formatted using the Markdown language.
-* [x] User can edit an existing post.
-* [x] There is one post that introduces the App Creator with name, picture.
-* [x] User can delete stories, with an alert that asks the user to confirm.
-* [x] User see a search form on the Posts page.
-* [x] User can submit a search term to find all posts bywith titles containing the search term.
+* How to run the test suite
 
-The following **optional** features are implemented:
-* [x] There is a "navbar" that is responsive to window size similar to http://v4-alpha.getbootstrap.com/examples/navbar/. 
-* [ ] User can see how many views a post has. 
-* [ ] User can leave a comment on a post.
-* [ ] User can add "tags" to a post, and filter posts by tag. 
-<img src="https://github.com/jackynguyen110/myBlog/blob/master/blog.gif" />
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
