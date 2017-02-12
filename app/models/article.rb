@@ -1,5 +1,5 @@
 class Article < ApplicationRecord
-
+  
   def self.search(search, type)
    
     if type === "0"
